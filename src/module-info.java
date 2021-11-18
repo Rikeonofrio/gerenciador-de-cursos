@@ -1,0 +1,2 @@
+module gerenciador.de.cursos {
+}
